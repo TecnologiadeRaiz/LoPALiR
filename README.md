@@ -1,2 +1,2 @@
-# web
-web
+# LoPALiR
+Local Production of Antenas for LibreRouters
